@@ -1,0 +1,15 @@
+D:\Kira\Обучение Python\7. Итоговая работа по 1 блоку\ITOG\ITOG_0\ITOG_00\ITOG_000\bin\Debug\net6.0\ITOG_000.exe
+D:\Kira\Обучение Python\7. Итоговая работа по 1 блоку\ITOG\ITOG_0\ITOG_00\ITOG_000\bin\Debug\net6.0\ITOG_000.deps.json
+D:\Kira\Обучение Python\7. Итоговая работа по 1 блоку\ITOG\ITOG_0\ITOG_00\ITOG_000\bin\Debug\net6.0\ITOG_000.runtimeconfig.json
+D:\Kira\Обучение Python\7. Итоговая работа по 1 блоку\ITOG\ITOG_0\ITOG_00\ITOG_000\bin\Debug\net6.0\ITOG_000.dll
+D:\Kira\Обучение Python\7. Итоговая работа по 1 блоку\ITOG\ITOG_0\ITOG_00\ITOG_000\bin\Debug\net6.0\ITOG_000.pdb
+D:\Kira\Обучение Python\7. Итоговая работа по 1 блоку\ITOG\ITOG_0\ITOG_00\ITOG_000\obj\Debug\net6.0\ITOG_000.csproj.AssemblyReference.cache
+D:\Kira\Обучение Python\7. Итоговая работа по 1 блоку\ITOG\ITOG_0\ITOG_00\ITOG_000\obj\Debug\net6.0\ITOG_000.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kira\Обучение Python\7. Итоговая работа по 1 блоку\ITOG\ITOG_0\ITOG_00\ITOG_000\obj\Debug\net6.0\ITOG_000.AssemblyInfoInputs.cache
+D:\Kira\Обучение Python\7. Итоговая работа по 1 блоку\ITOG\ITOG_0\ITOG_00\ITOG_000\obj\Debug\net6.0\ITOG_000.AssemblyInfo.cs
+D:\Kira\Обучение Python\7. Итоговая работа по 1 блоку\ITOG\ITOG_0\ITOG_00\ITOG_000\obj\Debug\net6.0\ITOG_000.csproj.CoreCompileInputs.cache
+D:\Kira\Обучение Python\7. Итоговая работа по 1 блоку\ITOG\ITOG_0\ITOG_00\ITOG_000\obj\Debug\net6.0\ITOG_000.dll
+D:\Kira\Обучение Python\7. Итоговая работа по 1 блоку\ITOG\ITOG_0\ITOG_00\ITOG_000\obj\Debug\net6.0\refint\ITOG_000.dll
+D:\Kira\Обучение Python\7. Итоговая работа по 1 блоку\ITOG\ITOG_0\ITOG_00\ITOG_000\obj\Debug\net6.0\ITOG_000.pdb
+D:\Kira\Обучение Python\7. Итоговая работа по 1 блоку\ITOG\ITOG_0\ITOG_00\ITOG_000\obj\Debug\net6.0\ITOG_000.genruntimeconfig.cache
+D:\Kira\Обучение Python\7. Итоговая работа по 1 блоку\ITOG\ITOG_0\ITOG_00\ITOG_000\obj\Debug\net6.0\ref\ITOG_000.dll
